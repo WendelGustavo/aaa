@@ -1,0 +1,46 @@
+*{
+    text-align: center;
+}
+body{
+    background-color: rgb(192, 192, 192);
+}
+#calcular{
+    display: grid;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#div{
+    background-color: rgb(84, 163, 180);
+    padding-top: 25px;
+    margin-top: 20px;
+    width: 400px; 
+    height: 280px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+table,tr,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 300px; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+table,th{
+    background-color: rgb(128, 255, 212);
+}
+table,td{
+    background-color: blanchedalmond;
+}
+h1{
+    font-size: 24px;
+}
+h2{
+    font-size: 16px;
+}
+#peso{
+    margin-bottom: 5px;
+}
